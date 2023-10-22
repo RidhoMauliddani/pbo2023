@@ -5,9 +5,9 @@ kelas: TIF22E/R5"""
 print("mencari rumus limas segiempat")
 
 # variabel
-luas_alas = float(input("masukkan luas alas"))
-luas_sisi = float(input("masukkan luas sisi"))
-tinggi_limas = float(input("masukkan tingi limas"))
+luas_alas = 10
+luas_sisi = 6
+tinggi_limas = 8
 
 # rumus
 luas_permukaan = luas_alas + luas_sisi
