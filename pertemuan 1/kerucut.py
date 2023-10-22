@@ -5,8 +5,8 @@
 print("mencari kerucut")
 import math
 # variabel
-tinggi_kerucut = float(input("masukkan tinggi kerucut"))
-jari_jari_lingkaran = float(input("masukkan jari jari"))
+tinggi_kerucut = 20
+jari_jari_lingkaran = 20
 
 #rumus
 luas_kerucut = math.pi * jari_jari_lingkaran * (jari_jari_lingkaran + math.sqrt(jari_jari_lingkaran * 2 + tinggi_kerucut * 2))
