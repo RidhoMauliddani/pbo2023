@@ -6,7 +6,7 @@ print("mencari bola")
 
 import math
 #variabel
-jari_jari = float(input("masukkan jari jari"))
+jari_jari = 7
 
 #rumus
 luas_permukaan = 4 * math.pi * jari_jari
