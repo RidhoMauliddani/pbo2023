@@ -4,7 +4,7 @@
 print("mencari kubus")
 
 #variabel
-sisi_kubus = int(input("masukkan sisi kubus"))
+sisi_kubus = 30
 
 #rumus 
 luas_kubus = 6 * sisi_kubus
