@@ -5,9 +5,10 @@
 print("mencari rumus balok")
 
 #variabel
-panjang_balok = int(input("masukkan panjang balok"))
-lebar_balok = int(input("masukkan lebar balok"))
-tinggi_balok = int(input("masukkan tinggi balok"))
+panjang_balok = 15
+lebar_balok = 10
+tinggi_balok = 10
+
 
 #rumus balok
 luas_balok = 2 * (panjang_balok * tinggi_balok) + (panjang_balok * lebar_balok) + (lebar_balok * tinggi_balok)
